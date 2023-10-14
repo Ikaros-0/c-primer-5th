@@ -1,0 +1,1 @@
+hi，this is a study of git.
